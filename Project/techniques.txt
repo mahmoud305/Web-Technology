@@ -1,0 +1,7 @@
+Ajax : for browsing books .
+
+javascript : for calling ajax and client side validation.
+
+php : to connect with the database and make the site more dynamic.
+
+sessions : used to store the data of the current user .
